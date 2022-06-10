@@ -1,0 +1,6 @@
+ JS
+ Git bash
+ Postman
+ SQL
+ Theory
+ Python
