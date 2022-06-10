@@ -1,0 +1,4 @@
+ Name Alice
+ Age unknown
+ Pet not
+ Salary endless
